@@ -17,32 +17,25 @@
 ## 데이터베이스
 ![DB](./md_resources/d1.PNG)
 ## 주요 기능
-- 게시글 읽기
+## 게시글 읽기
 ![Alt text](./md_resources/board.PNG)
 ![Alt text](./md_resources/read.PNG)
-
-- 검색
+## 검색
 ![Alt text](./md_resources/search.PNG)
 ![Alt text](./md_resources/search2.PNG)
-
-- 게시글 목록 페이지 처리
+## 게시글 목록 페이지 처리
 ![Alt text](./md_resources/page.PNG)
-
-- 게시글 등록
+## 게시글 등록
 ![Alt text](./md_resources/register.PNG)
-
-- 게시글 수정, 삭제
+## 게시글 수정, 삭제
 ![Alt text](./md_resources/modify.PNG)
-
-- 파일 업로드
+## 파일 업로드
 ![Alt text](./md_resources/file.PNG)
-
-- 게시글 댓글, 댓글 수정, 댓글 페이지 처리
+## 게시글 댓글, 댓글 수정, 댓글 페이지 처리
 ![Alt text](./md_resources/reply.PNG)
 ![Alt text](./md_resources/replymodify.PNG)
 ![Alt text](./md_resources/replypage.PNG)
-
-- 로그인 / 로그아웃
+## 로그인 / 로그아웃
 ![Alt text](./md_resources/login2.PNG)
 ![Alt text](./md_resources/login.PNG)
 ![Alt text](./md_resources/logout.PNG)
