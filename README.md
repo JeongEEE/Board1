@@ -18,31 +18,31 @@
 ![DB](./md_resources/d1.PNG)
 ## 주요 기능
 - 게시글 읽기
-![board](./md_resources/board.PNG)
-![board2](./md_resources/read.PNG)
+![Alt text](./md_resources/board.PNG)
+![Alt text](./md_resources/read.PNG)
 
 - 검색
-![board11](./md_resources/search.PNG)
-![board12](./md_resources/search2.PNG)
+![Alt text](./md_resources/search.PNG)
+![Alt text](./md_resources/search2.PNG)
 
 - 게시글 목록 페이지 처리
-![board13](./md_resources/page.PNG)
+![Alt text](./md_resources/page.PNG)
 
 - 게시글 등록
-![board3](./md_resources/register.PNG)
+![Alt text](./md_resources/register.PNG)
 
 - 게시글 수정, 삭제
-![board4](./md_resources/modify.PNG)
+![Alt text](./md_resources/modify.PNG)
 
 - 파일 업로드
-![board5](./md_resources/file.PNG)
+![Alt text](./md_resources/file.PNG)
 
 - 게시글 댓글, 댓글 수정, 댓글 페이지 처리
-![board6](./md_resources/reply.PNG)
-![board7](./md_resources/replymodify.PNG)
-![board14](./md_resources/replypage.PNG)
+![Alt text](./md_resources/reply.PNG)
+![Alt text](./md_resources/replymodify.PNG)
+![Alt text](./md_resources/replypage.PNG)
 
 - 로그인 / 로그아웃
-![board8](./md_resources/login2.PNG)
-![board9](./md_resources/login.PNG)
-![board10](./md_resources/logout.PNG)
+![Alt text](./md_resources/login2.PNG)
+![Alt text](./md_resources/login.PNG)
+![Alt text](./md_resources/logout.PNG)
