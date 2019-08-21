@@ -17,7 +17,7 @@
 ## 데이터베이스
 ![DB](./md_resources/d1.PNG)
 ## 주요 기능
-> 게시글 읽기
+> 게시글 읽기<
 ![board](./md_resources/board.PNG)
 ![board2](./md_resources/read.PNG)
 > 검색
