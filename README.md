@@ -16,8 +16,9 @@
 ![JavaMain](./md_resources/c1.PNG)
 ## 데이터베이스
 ![DB](./md_resources/d1.PNG)
-## 주요 기능
 ## 게시글 읽기
+게시판 목록 list는 BoardController를 이용해서 데이터베이스 테이블 tb1_board에
+있는 데이터를 출력합니다.
 ![Alt text](./md_resources/board.PNG)
 ![Alt text](./md_resources/read.PNG)
 ## 검색
