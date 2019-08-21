@@ -14,6 +14,9 @@
 ## 개발 기간 - 2019/07/01 ~ 08/14
 ## 게시판 패키지 구조
 ![JavaMain](./md_resources/c1.PNG)
+web.xml로 모든 서블릿과 필터들을 정의합니다. 메이븐은 pom.xml을 통해 각종 필요한 라이브러리를 자동으로 다운받고 관리합니다. root-context.xml은 JSP와 관련이 없는 객체(bean)을 설정합니다.
+## 메서드 처리과정
+요청 > 컨트롤러 > 서비스 > MyBatis > DB > 컨트롤러(DB 반환)
 ## 데이터베이스
 ![DB](./md_resources/d1.PNG)
 ## 게시글 읽기
