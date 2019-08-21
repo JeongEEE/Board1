@@ -21,10 +21,10 @@
 ![board](./md_resources/board.PNG)
 ![board2](./md_resources/read.PNG)
 - 검색
-![board](./md_resources/search.PNG)
-![board](./md_resources/search2.PNG)
+![board11](./md_resources/search.PNG)
+![board12](./md_resources/search2.PNG)
 - 게시글 목록 페이지 처리
-![board](./md_resources/page.PNG)
+![board13](./md_resources/page.PNG)
 - 게시글 등록
 ![board3](./md_resources/register.PNG)
 - 게시글 수정, 삭제
@@ -34,7 +34,7 @@
 - 게시글 댓글, 댓글 수정, 댓글 페이지 처리
 ![board6](./md_resources/reply.PNG)
 ![board7](./md_resources/replymodify.PNG)
-![board](./md_resources/replypage.PNG)
+![board14](./md_resources/replypage.PNG)
 - 로그인 / 로그아웃
 ![board8](./md_resources/login2.PNG)
 ![board9](./md_resources/login.PNG)
